@@ -1,4 +1,14 @@
-# tiny-gpu
+# minimal-gpu-verilog
+
+Grokathon London Selection
+
+This project was submitted to Grokathon London as part of the selection process and was officially selected by the Grokathon organizers.
+
+The selection confirms that tiny-gpu met the technical and innovation criteria required for participation in an international hardware and systems-focused hackathon.
+
+An official invitation and selection confirmation email was received from Grokathon, and a screenshot of that confirmation is included in this repository for transparency and verification.
+
+<img 20260109_112736.jpg
 
 A minimal GPU implementation in Verilog optimized for learning about how GPUs work from the ground up.
 
