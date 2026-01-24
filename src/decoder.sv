@@ -10,7 +10,7 @@ module decoder (
 
     input reg [2:0] core_state,
     input reg [15:0] instruction,
-    
+     
     // Instruction Signals
     output reg [3:0] decoded_rd_address,
     output reg [3:0] decoded_rs_address,
