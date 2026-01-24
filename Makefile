@@ -16,7 +16,7 @@ compile:
 	cat build/gpu.v >> build/temp.v
 	mv build/temp.v build/gpu.v
 
-compile_%: 
+compile_%:   
 	sv2v -w build/$*.v src/$*.sv
 
 # TODO: Get gtkwave visualizaiton
