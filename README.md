@@ -8,7 +8,7 @@ The selection confirms that minimal-gpu-verilog met the technical and innovation
 
 An official invitation and selection confirmation email was received from Grokathon, and a screenshot of that confirmation is included in this repository for transparency and verification.
 
-# INVITATION
+# INVITATION 
 
 ![INVITATION](/docs/images/20260109_112736.jpg)
 
