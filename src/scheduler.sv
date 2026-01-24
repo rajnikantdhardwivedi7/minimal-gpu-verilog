@@ -1,6 +1,6 @@
 `default_nettype none
 `timescale 1ns/1ns
-
+ 
 // SCHEDULER
 // > Manages the entire control flow of a single compute core processing 1 block
 // 1. FETCH - Retrieve instruction at current program counter (PC) from program memory
